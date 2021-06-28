@@ -44,5 +44,5 @@ router.post('/login', async (req, res, next) => {
   }
 });
 
-//use middleware on route for procted info
+//use middleware on route for procted info for dashboard
 module.exports = router;
